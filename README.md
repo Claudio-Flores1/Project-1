@@ -15,6 +15,7 @@ Based on the infinite runners that were so rampant ages ago, “Highflier” wil
   
   # Wireframes
   
+  ![Start Up](https://user-images.githubusercontent.com/111713666/192351506-c3fc5e01-82a0-4f32-86c0-c081f102522f.png)
   ![Gameplay](https://user-images.githubusercontent.com/111713666/190927482-212be7c6-0dd0-49ac-a76a-b96cbe835073.png)
   
   # Entity Relationship Diagram
