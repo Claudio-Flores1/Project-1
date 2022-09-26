@@ -9,8 +9,30 @@
 </head>
 
 <body>
-    
+    <h1>Welcome to Highflier!</h1>
     <canvas id="canvas"></canvas>
+    <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close"></span>
+            <p>Congratulations on collecting all the gems and making it this far! I hope you've enjoyed your journey and
+                feel free to play again!</p>
+            <button class="bttn2" id="but" onclick="gameReset()">
+                RESET
+            </button>
+        </div>
+    </div>
+    <div id="loss-Modal" class="loss-modal">
+        <!-- Modal content -->
+        <div class="modal-content2">
+            <span class="close"></span>
+            <p>Sorry to inform you but the cloud has swallowed you whole, rise like the phoenix and try again!</p>
+            <button class="bttn" id="but" onclick="gameReset()">
+                RESET
+            </button>
+        </div>
+    </div>
+
     <script src="index.js"></script>
 </body>
 
